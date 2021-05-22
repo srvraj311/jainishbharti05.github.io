@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/jainishbharti05.github.io/static/js/main.f71fa302.chunk.js",
+    "main.js.map": "/jainishbharti05.github.io/static/js/main.f71fa302.chunk.js.map",
+    "runtime-main.js": "/jainishbharti05.github.io/static/js/runtime-main.99ca6dd1.js",
+    "runtime-main.js.map": "/jainishbharti05.github.io/static/js/runtime-main.99ca6dd1.js.map",
+    "static/js/2.b0d5eed9.chunk.js": "/jainishbharti05.github.io/static/js/2.b0d5eed9.chunk.js",
+    "static/js/2.b0d5eed9.chunk.js.map": "/jainishbharti05.github.io/static/js/2.b0d5eed9.chunk.js.map",
+    "index.html": "/jainishbharti05.github.io/index.html",
+    "static/js/2.b0d5eed9.chunk.js.LICENSE.txt": "/jainishbharti05.github.io/static/js/2.b0d5eed9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99ca6dd1.js",
+    "static/js/2.b0d5eed9.chunk.js",
+    "static/js/main.f71fa302.chunk.js"
+  ]
+}
